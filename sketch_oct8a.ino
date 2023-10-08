@@ -4,8 +4,8 @@
 #include <Wire.h>
 
 //please enter your sensitive data in the Secret tab
-char ssid[] = "ryan.n";
-char pass[] = "12345678";
+char ssid[] = "Nishant R";
+char pass[] = "123456780";
 
 WiFiClient client;
 BH1750 lightMeter;
